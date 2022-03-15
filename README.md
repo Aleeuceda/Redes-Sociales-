@@ -26,8 +26,15 @@ padding: 0}
 
 <p>
 
+Las redes sociales son plataformas de interaccion social a traves del internet
+que permiten la puesta en contacto entre personas,empresas o instituciones
+con el objetivo de compartir conocimiento,opiniones,documentos,pensamientos etc
+
 </p>.
 <p>
+A pesar de los grandes beneficios que comportan la utilizacion de las redes,no 
+estan exentes de riezgos para las personas que habitualmente las utilizan.
+La llegada del internet, hace ya unos años, genero un antes y un despues en las diferentes civilizaciones.
 </p> 
 
 <h2>BENEFICIOS</h2> 
@@ -43,13 +50,20 @@ padding: 0}
 <li>Robo de identidad</li> 
 
 <p>
+La primera red social fue creada en 1997,llamada SixDegrees permitia localizar a otros miembros de la red y crear listas de amigos, y se basaba en la teoria 
+de los 6 grados de separacion, que afirma que es posible conectar con cualquier otra persona del mundo con tan solo 6 pasos.
 </p>
 <center><img src="SixDegrees.jpeg" height="150px" width="150px"></center>
 <p>
+Las redes sociales continuan avanzando en internet a pasos agigantados, especialmente dentro de lo que se ha denominado web 2.0 y web 3.0, y dentro 
+de ellas, cabe pretende ayudar al usuario en sus compras en internet.
 
 </p> 
 
 <p>
+Es habitual escuchar en las noticias los peligros asociados a las redes sociales, 
+como el riezgo de aislamientos social si se rprefieren los vinculos virtuales frente a la interaccion en persona.Sin enbargo, no es habitual escuchar argumentos
+que hablen de su potencial de favorecer la vida de los usuarios.
 
 </p>
 <center><img src="tic.jpg"    height="200px"  width="200px"></center>
